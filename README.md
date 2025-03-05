@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development using Java, Spring Boot.<br>👯 I’m looking for Open-Source Contributions.<br>🤝 I’m looking for help with Rust.<br>🌱 I’m currently learning Spring MVC.<br>💬 Ask me about Java, OOPS, Spring Boot., Python.<br>⚡ A coffee Person. 
+🔭 I’m currently working on Backend Development using Java, Spring Boot.<br>👯 I’m looking for Open-Source Contributions.<br>🤝 I’m looking for help with Rust.<br>🌱 I’m currently learning Spring MVC.<br>💬 Ask me about Java, OOPS, Spring Boot, Python.<br>⚡ A coffee Person. 
 
 
 ## 🌐 Socials:
